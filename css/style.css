@@ -83,7 +83,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .main {
-	background: url(/img/image.png) no-repeat center;
+	background: url(img/image.png) no-repeat center;
 	background-size: cover;
 	min-height: 100vh;
   }
